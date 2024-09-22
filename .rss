@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Aurora's blog</title>
+        <description>just an example</description>
+        <link>https://shadlock0133.github.io/</link>
+        <lastBuildDate>22 Sep 2024 12:20:00 +0200</lastBuildDate>
+        <pubDate>22 Sep 2024 12:20:00 +0200</pubDate>
+        <ttl>1800</ttl>
+
+        <item>
+            <title>Example entry</title>
+            <description>Here is some text containing an interesting description.</description>
+            <link>https://shadlock0133.github.io/post/1</link>
+            <pubDate>22 Sep 2024 12:20:00 +0200</pubDate>
+        </item>
+
+    </channel>
+</rss>
