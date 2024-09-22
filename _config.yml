@@ -1,4 +1,4 @@
 plugins:
   - jekyll-feed
 feed:
-  path: .rss
+  path: feed.rss
